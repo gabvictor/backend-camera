@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Status das Câmeras</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    #btn-voltar {
+      display: block;
+      margin: 0 auto 20px auto;
+      padding: 8px 16px;
+      font-size: 14px;
+      cursor: pointer;
+      background-color: #1976d2;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+
+    #btn-voltar:hover {
+      background-color: #115293;
+    }
+
+    .filtros {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    label {
+      margin: 0 15px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    #lista {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .camera {
+      background: white;
+      border-radius: 6px;
+      padding: 12px 16px;
+      margin-bottom: 10px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 16px;
+    }
+
+    .online {
+      color: #2e7d32; /* verde */
+      font-weight: bold;
+    }
+
+    .offline {
+      color: #c62828; /* vermelho */
+      font-weight: bold;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    p {
+      text-align: center;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Status das Câmeras de Rio Branco</h1>
+
+  <button id="btn-voltar" type="button">← Voltar</button>
+
+  <div class="filtros">
+    <label>
+      <input type="checkbox" id="filtro-online" checked />
+      Mostrar Online (<span id="contagem-online">0</span>)
+    </label>
+    <label>
+      <input type="checkbox" id="filtro-offline" checked />
+      Mostrar Offline (<span id="contagem-offline">0</span>)
+    </label>
+  </div>
+
+  <div id="lista"><p>Carregando...</p></div>
+
+  <script>
+    const filtroOnline = document.getElementById('filtro-online');
+    const filtroOffline = document.getElementById('filtro-offline');
+    const lista = document.getElementById('lista');
+    const contagemOnline = document.getElementById('contagem-online');
+    const contagemOffline = document.getElementById('contagem-offline');
+    const btnVoltar = document.getElementById('btn-voltar');
+
+    btnVoltar.addEventListener('click', () => {
+      window.history.back();
+    });
+
+    let dadosCameras = [];
+
+    async function carregarStatus() {
+      lista.innerHTML = '<p>Carregando...</p>';
+
+      try {
+        const res = await fetch('/status-cameras');
+        const cameras = await res.json();
+
+        if (!cameras.length) {
+          lista.innerHTML = '<p>Nenhum dado disponível.</p>';
+          return;
+        }
+
+        dadosCameras = cameras;
+        atualizarContagem();
+        exibirCameras();
+      } catch (e) {
+        lista.innerHTML = '<p>Erro ao carregar dados.</p>';
+        console.error(e);
+      }
+    }
+
+    function atualizarContagem() {
+      const online = dadosCameras.filter(c => c.status === 'online').length;
+      const offline = dadosCameras.filter(c => c.status === 'offline').length;
+
+      contagemOnline.textContent = online;
+      contagemOffline.textContent = offline;
+    }
+
+    function exibirCameras() {
+      lista.innerHTML = '';
+
+      dadosCameras.forEach(({ codigo, status }) => {
+        const mostrar =
+          (status === 'online' && filtroOnline.checked) ||
+          (status === 'offline' && filtroOffline.checked);
+
+        if (mostrar) {
+          const div = document.createElement('div');
+          div.className = 'camera ' + status;
+
+          const link = document.createElement('a');
+          link.href = `/proxy/camera?code=${codigo}`;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = `Câmera Code ${codigo}`;
+          link.style.color = status === 'online' ? '#2e7d32' : '#c62828';
+          link.style.fontWeight = 'bold';
+
+          const spanStatus = document.createElement('span');
+          spanStatus.className = status;
+          spanStatus.textContent = status.toUpperCase();
+
+          div.appendChild(link);
+          div.appendChild(spanStatus);
+          lista.appendChild(div);
+        }
+      });
+
+      if (lista.innerHTML === '') {
+        lista.innerHTML = '<p>Nenhuma câmera corresponde ao filtro.</p>';
+      }
+    }
+
+    filtroOnline.addEventListener('change', exibirCameras);
+    filtroOffline.addEventListener('change', exibirCameras);
+
+    carregarStatus();
+    setInterval(carregarStatus, 60000);
+  </script>
+</body>
+</html>

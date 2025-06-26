@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Câmeras de Rio Branco</title>
+  <link rel="stylesheet" href="/css/index-style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Câmeras Públicas de Rio Branco</h1>
+      <div class="status-info">
+        <a href="/status.html" id="contador-online" style="text-decoration: none; color: inherit; cursor: pointer;">
+  🟢 Online: 0
+</a>
+
+        <button id="toggle-theme">🌗 Tema</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="popup-container"></div>
+
+  <main>
+    <div class="camera-selector">
+      <label for="camera">Escolha uma câmera:</label>
+      <select id="camera">
+        <option value="001000">Câmera 001000</option>
+      </select>
+    </div>
+
+    <div class="camera-view">
+      <img id="camera-feed" src="" alt="Camera" />
+    </div>
+  </main>
+
+  <footer>
+    <p>🔗 Projeto experimental - Câmeras Rio Branco</p>
+  </footer>
+
+  <script src="/script/script.js"></script>
+</body>
+</html>

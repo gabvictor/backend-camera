@@ -1,0 +1,153 @@
+/* 🌗 Temas */
+:root {
+  --bg-color: #f4f4f9;
+  --text-color: #222;
+  --header-bg: #ffffff;
+  --border-color: #ccc;
+  --card-bg: #ffffff;
+  --button-bg: #007bff;
+  --button-text: #fff;
+}
+
+body.dark {
+  --bg-color: #121212;
+  --text-color: #eee;
+  --header-bg: #1f1f1f;
+  --border-color: #333;
+  --card-bg: #1a1a1a;
+  --button-bg: #333;
+  --button-text: #eee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+/* 🔝 Header */
+header {
+  background-color: var(--header-bg);
+  padding: 15px 25px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.8em;
+}
+
+.status-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#contador-online {
+  background-color: #4caf50;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+/* 🎛️ Botões */
+button {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+body.dark button:hover {
+  background-color: #444;
+}
+
+/* 🔍 Seletor */
+main {
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.camera-selector {
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+  background-color: var(--card-bg);
+  color: var(--text-color);
+}
+
+/* 📷 Visualização da câmera */
+.camera-view img {
+  width: 90%;
+  max-width: 1000px;
+  border: 5px solid var(--border-color);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* 🔻 Footer */
+footer {
+  background-color: var(--header-bg);
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+  border-top: 1px solid var(--border-color);
+}
+
+/* 🔔 Popup */
+#popup-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.popup {
+  background-color: #333;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  opacity: 0;
+  transform: translateX(100%);
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+
+.popup.show {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.popup.online {
+  background-color: #4caf50;
+}
+
+.popup.offline {
+  background-color: #f44336;
+}
+

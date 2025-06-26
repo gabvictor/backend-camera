@@ -1,0 +1,2006 @@
+[
+  {
+    "codigo": "001000",
+    "status": "offline"
+  },
+  {
+    "codigo": "001001",
+    "status": "offline"
+  },
+  {
+    "codigo": "001002",
+    "status": "offline"
+  },
+  {
+    "codigo": "001003",
+    "status": "offline"
+  },
+  {
+    "codigo": "001004",
+    "status": "offline"
+  },
+  {
+    "codigo": "001005",
+    "status": "offline"
+  },
+  {
+    "codigo": "001006",
+    "status": "offline"
+  },
+  {
+    "codigo": "001007",
+    "status": "offline"
+  },
+  {
+    "codigo": "001008",
+    "status": "offline"
+  },
+  {
+    "codigo": "001009",
+    "status": "offline"
+  },
+  {
+    "codigo": "001010",
+    "status": "offline"
+  },
+  {
+    "codigo": "001011",
+    "status": "offline"
+  },
+  {
+    "codigo": "001012",
+    "status": "offline"
+  },
+  {
+    "codigo": "001013",
+    "status": "offline"
+  },
+  {
+    "codigo": "001014",
+    "status": "offline"
+  },
+  {
+    "codigo": "001015",
+    "status": "offline"
+  },
+  {
+    "codigo": "001016",
+    "status": "offline"
+  },
+  {
+    "codigo": "001017",
+    "status": "offline"
+  },
+  {
+    "codigo": "001018",
+    "status": "offline"
+  },
+  {
+    "codigo": "001019",
+    "status": "offline"
+  },
+  {
+    "codigo": "001020",
+    "status": "online"
+  },
+  {
+    "codigo": "001021",
+    "status": "online"
+  },
+  {
+    "codigo": "001022",
+    "status": "online"
+  },
+  {
+    "codigo": "001023",
+    "status": "offline"
+  },
+  {
+    "codigo": "001024",
+    "status": "online"
+  },
+  {
+    "codigo": "001025",
+    "status": "online"
+  },
+  {
+    "codigo": "001026",
+    "status": "offline"
+  },
+  {
+    "codigo": "001027",
+    "status": "offline"
+  },
+  {
+    "codigo": "001028",
+    "status": "offline"
+  },
+  {
+    "codigo": "001029",
+    "status": "offline"
+  },
+  {
+    "codigo": "001030",
+    "status": "online"
+  },
+  {
+    "codigo": "001031",
+    "status": "online"
+  },
+  {
+    "codigo": "001032",
+    "status": "offline"
+  },
+  {
+    "codigo": "001033",
+    "status": "offline"
+  },
+  {
+    "codigo": "001034",
+    "status": "offline"
+  },
+  {
+    "codigo": "001035",
+    "status": "online"
+  },
+  {
+    "codigo": "001036",
+    "status": "offline"
+  },
+  {
+    "codigo": "001037",
+    "status": "offline"
+  },
+  {
+    "codigo": "001038",
+    "status": "offline"
+  },
+  {
+    "codigo": "001039",
+    "status": "offline"
+  },
+  {
+    "codigo": "001040",
+    "status": "offline"
+  },
+  {
+    "codigo": "001041",
+    "status": "offline"
+  },
+  {
+    "codigo": "001042",
+    "status": "offline"
+  },
+  {
+    "codigo": "001043",
+    "status": "offline"
+  },
+  {
+    "codigo": "001044",
+    "status": "offline"
+  },
+  {
+    "codigo": "001045",
+    "status": "offline"
+  },
+  {
+    "codigo": "001046",
+    "status": "offline"
+  },
+  {
+    "codigo": "001047",
+    "status": "offline"
+  },
+  {
+    "codigo": "001048",
+    "status": "offline"
+  },
+  {
+    "codigo": "001049",
+    "status": "offline"
+  },
+  {
+    "codigo": "001050",
+    "status": "offline"
+  },
+  {
+    "codigo": "001051",
+    "status": "offline"
+  },
+  {
+    "codigo": "001052",
+    "status": "offline"
+  },
+  {
+    "codigo": "001053",
+    "status": "offline"
+  },
+  {
+    "codigo": "001054",
+    "status": "offline"
+  },
+  {
+    "codigo": "001055",
+    "status": "offline"
+  },
+  {
+    "codigo": "001056",
+    "status": "online"
+  },
+  {
+    "codigo": "001057",
+    "status": "online"
+  },
+  {
+    "codigo": "001058",
+    "status": "offline"
+  },
+  {
+    "codigo": "001059",
+    "status": "offline"
+  },
+  {
+    "codigo": "001060",
+    "status": "offline"
+  },
+  {
+    "codigo": "001061",
+    "status": "offline"
+  },
+  {
+    "codigo": "001062",
+    "status": "offline"
+  },
+  {
+    "codigo": "001063",
+    "status": "online"
+  },
+  {
+    "codigo": "001064",
+    "status": "offline"
+  },
+  {
+    "codigo": "001065",
+    "status": "offline"
+  },
+  {
+    "codigo": "001066",
+    "status": "offline"
+  },
+  {
+    "codigo": "001067",
+    "status": "offline"
+  },
+  {
+    "codigo": "001068",
+    "status": "offline"
+  },
+  {
+    "codigo": "001069",
+    "status": "online"
+  },
+  {
+    "codigo": "001070",
+    "status": "offline"
+  },
+  {
+    "codigo": "001071",
+    "status": "online"
+  },
+  {
+    "codigo": "001072",
+    "status": "offline"
+  },
+  {
+    "codigo": "001073",
+    "status": "offline"
+  },
+  {
+    "codigo": "001074",
+    "status": "offline"
+  },
+  {
+    "codigo": "001075",
+    "status": "offline"
+  },
+  {
+    "codigo": "001076",
+    "status": "online"
+  },
+  {
+    "codigo": "001077",
+    "status": "online"
+  },
+  {
+    "codigo": "001078",
+    "status": "online"
+  },
+  {
+    "codigo": "001079",
+    "status": "online"
+  },
+  {
+    "codigo": "001080",
+    "status": "online"
+  },
+  {
+    "codigo": "001081",
+    "status": "online"
+  },
+  {
+    "codigo": "001082",
+    "status": "online"
+  },
+  {
+    "codigo": "001083",
+    "status": "offline"
+  },
+  {
+    "codigo": "001084",
+    "status": "online"
+  },
+  {
+    "codigo": "001085",
+    "status": "online"
+  },
+  {
+    "codigo": "001086",
+    "status": "online"
+  },
+  {
+    "codigo": "001087",
+    "status": "offline"
+  },
+  {
+    "codigo": "001088",
+    "status": "online"
+  },
+  {
+    "codigo": "001089",
+    "status": "offline"
+  },
+  {
+    "codigo": "001090",
+    "status": "offline"
+  },
+  {
+    "codigo": "001091",
+    "status": "offline"
+  },
+  {
+    "codigo": "001092",
+    "status": "offline"
+  },
+  {
+    "codigo": "001093",
+    "status": "offline"
+  },
+  {
+    "codigo": "001094",
+    "status": "offline"
+  },
+  {
+    "codigo": "001095",
+    "status": "online"
+  },
+  {
+    "codigo": "001096",
+    "status": "offline"
+  },
+  {
+    "codigo": "001097",
+    "status": "offline"
+  },
+  {
+    "codigo": "001098",
+    "status": "offline"
+  },
+  {
+    "codigo": "001099",
+    "status": "online"
+  },
+  {
+    "codigo": "001100",
+    "status": "online"
+  },
+  {
+    "codigo": "001101",
+    "status": "online"
+  },
+  {
+    "codigo": "001102",
+    "status": "online"
+  },
+  {
+    "codigo": "001103",
+    "status": "offline"
+  },
+  {
+    "codigo": "001104",
+    "status": "offline"
+  },
+  {
+    "codigo": "001105",
+    "status": "offline"
+  },
+  {
+    "codigo": "001106",
+    "status": "offline"
+  },
+  {
+    "codigo": "001107",
+    "status": "offline"
+  },
+  {
+    "codigo": "001108",
+    "status": "offline"
+  },
+  {
+    "codigo": "001109",
+    "status": "offline"
+  },
+  {
+    "codigo": "001110",
+    "status": "offline"
+  },
+  {
+    "codigo": "001111",
+    "status": "offline"
+  },
+  {
+    "codigo": "001112",
+    "status": "offline"
+  },
+  {
+    "codigo": "001113",
+    "status": "offline"
+  },
+  {
+    "codigo": "001114",
+    "status": "offline"
+  },
+  {
+    "codigo": "001115",
+    "status": "online"
+  },
+  {
+    "codigo": "001116",
+    "status": "offline"
+  },
+  {
+    "codigo": "001117",
+    "status": "offline"
+  },
+  {
+    "codigo": "001118",
+    "status": "online"
+  },
+  {
+    "codigo": "001119",
+    "status": "offline"
+  },
+  {
+    "codigo": "001120",
+    "status": "offline"
+  },
+  {
+    "codigo": "001121",
+    "status": "offline"
+  },
+  {
+    "codigo": "001122",
+    "status": "offline"
+  },
+  {
+    "codigo": "001123",
+    "status": "offline"
+  },
+  {
+    "codigo": "001124",
+    "status": "offline"
+  },
+  {
+    "codigo": "001125",
+    "status": "online"
+  },
+  {
+    "codigo": "001126",
+    "status": "offline"
+  },
+  {
+    "codigo": "001127",
+    "status": "online"
+  },
+  {
+    "codigo": "001128",
+    "status": "offline"
+  },
+  {
+    "codigo": "001129",
+    "status": "offline"
+  },
+  {
+    "codigo": "001130",
+    "status": "offline"
+  },
+  {
+    "codigo": "001131",
+    "status": "offline"
+  },
+  {
+    "codigo": "001132",
+    "status": "offline"
+  },
+  {
+    "codigo": "001133",
+    "status": "offline"
+  },
+  {
+    "codigo": "001134",
+    "status": "offline"
+  },
+  {
+    "codigo": "001135",
+    "status": "offline"
+  },
+  {
+    "codigo": "001136",
+    "status": "offline"
+  },
+  {
+    "codigo": "001137",
+    "status": "offline"
+  },
+  {
+    "codigo": "001138",
+    "status": "offline"
+  },
+  {
+    "codigo": "001139",
+    "status": "offline"
+  },
+  {
+    "codigo": "001140",
+    "status": "offline"
+  },
+  {
+    "codigo": "001141",
+    "status": "offline"
+  },
+  {
+    "codigo": "001142",
+    "status": "offline"
+  },
+  {
+    "codigo": "001143",
+    "status": "offline"
+  },
+  {
+    "codigo": "001144",
+    "status": "offline"
+  },
+  {
+    "codigo": "001145",
+    "status": "offline"
+  },
+  {
+    "codigo": "001146",
+    "status": "offline"
+  },
+  {
+    "codigo": "001147",
+    "status": "offline"
+  },
+  {
+    "codigo": "001148",
+    "status": "offline"
+  },
+  {
+    "codigo": "001149",
+    "status": "offline"
+  },
+  {
+    "codigo": "001150",
+    "status": "offline"
+  },
+  {
+    "codigo": "001151",
+    "status": "offline"
+  },
+  {
+    "codigo": "001152",
+    "status": "offline"
+  },
+  {
+    "codigo": "001153",
+    "status": "offline"
+  },
+  {
+    "codigo": "001154",
+    "status": "offline"
+  },
+  {
+    "codigo": "001155",
+    "status": "offline"
+  },
+  {
+    "codigo": "001156",
+    "status": "offline"
+  },
+  {
+    "codigo": "001157",
+    "status": "offline"
+  },
+  {
+    "codigo": "001158",
+    "status": "offline"
+  },
+  {
+    "codigo": "001159",
+    "status": "offline"
+  },
+  {
+    "codigo": "001160",
+    "status": "offline"
+  },
+  {
+    "codigo": "001161",
+    "status": "offline"
+  },
+  {
+    "codigo": "001162",
+    "status": "offline"
+  },
+  {
+    "codigo": "001163",
+    "status": "offline"
+  },
+  {
+    "codigo": "001164",
+    "status": "offline"
+  },
+  {
+    "codigo": "001165",
+    "status": "offline"
+  },
+  {
+    "codigo": "001166",
+    "status": "offline"
+  },
+  {
+    "codigo": "001167",
+    "status": "online"
+  },
+  {
+    "codigo": "001168",
+    "status": "offline"
+  },
+  {
+    "codigo": "001169",
+    "status": "offline"
+  },
+  {
+    "codigo": "001170",
+    "status": "offline"
+  },
+  {
+    "codigo": "001171",
+    "status": "offline"
+  },
+  {
+    "codigo": "001172",
+    "status": "offline"
+  },
+  {
+    "codigo": "001173",
+    "status": "offline"
+  },
+  {
+    "codigo": "001174",
+    "status": "online"
+  },
+  {
+    "codigo": "001175",
+    "status": "offline"
+  },
+  {
+    "codigo": "001176",
+    "status": "offline"
+  },
+  {
+    "codigo": "001177",
+    "status": "offline"
+  },
+  {
+    "codigo": "001178",
+    "status": "offline"
+  },
+  {
+    "codigo": "001179",
+    "status": "offline"
+  },
+  {
+    "codigo": "001180",
+    "status": "offline"
+  },
+  {
+    "codigo": "001181",
+    "status": "offline"
+  },
+  {
+    "codigo": "001182",
+    "status": "offline"
+  },
+  {
+    "codigo": "001183",
+    "status": "offline"
+  },
+  {
+    "codigo": "001184",
+    "status": "offline"
+  },
+  {
+    "codigo": "001185",
+    "status": "offline"
+  },
+  {
+    "codigo": "001186",
+    "status": "offline"
+  },
+  {
+    "codigo": "001187",
+    "status": "offline"
+  },
+  {
+    "codigo": "001188",
+    "status": "offline"
+  },
+  {
+    "codigo": "001189",
+    "status": "offline"
+  },
+  {
+    "codigo": "001190",
+    "status": "offline"
+  },
+  {
+    "codigo": "001191",
+    "status": "offline"
+  },
+  {
+    "codigo": "001192",
+    "status": "offline"
+  },
+  {
+    "codigo": "001193",
+    "status": "offline"
+  },
+  {
+    "codigo": "001194",
+    "status": "online"
+  },
+  {
+    "codigo": "001195",
+    "status": "online"
+  },
+  {
+    "codigo": "001196",
+    "status": "online"
+  },
+  {
+    "codigo": "001197",
+    "status": "online"
+  },
+  {
+    "codigo": "001198",
+    "status": "online"
+  },
+  {
+    "codigo": "001199",
+    "status": "offline"
+  },
+  {
+    "codigo": "001200",
+    "status": "offline"
+  },
+  {
+    "codigo": "001201",
+    "status": "offline"
+  },
+  {
+    "codigo": "001202",
+    "status": "offline"
+  },
+  {
+    "codigo": "001203",
+    "status": "offline"
+  },
+  {
+    "codigo": "001204",
+    "status": "offline"
+  },
+  {
+    "codigo": "001205",
+    "status": "offline"
+  },
+  {
+    "codigo": "001206",
+    "status": "offline"
+  },
+  {
+    "codigo": "001207",
+    "status": "offline"
+  },
+  {
+    "codigo": "001208",
+    "status": "offline"
+  },
+  {
+    "codigo": "001209",
+    "status": "offline"
+  },
+  {
+    "codigo": "001210",
+    "status": "offline"
+  },
+  {
+    "codigo": "001211",
+    "status": "offline"
+  },
+  {
+    "codigo": "001212",
+    "status": "offline"
+  },
+  {
+    "codigo": "001213",
+    "status": "offline"
+  },
+  {
+    "codigo": "001214",
+    "status": "offline"
+  },
+  {
+    "codigo": "001215",
+    "status": "offline"
+  },
+  {
+    "codigo": "001216",
+    "status": "offline"
+  },
+  {
+    "codigo": "001217",
+    "status": "offline"
+  },
+  {
+    "codigo": "001218",
+    "status": "offline"
+  },
+  {
+    "codigo": "001219",
+    "status": "offline"
+  },
+  {
+    "codigo": "001220",
+    "status": "offline"
+  },
+  {
+    "codigo": "001221",
+    "status": "offline"
+  },
+  {
+    "codigo": "001222",
+    "status": "offline"
+  },
+  {
+    "codigo": "001223",
+    "status": "offline"
+  },
+  {
+    "codigo": "001224",
+    "status": "offline"
+  },
+  {
+    "codigo": "001225",
+    "status": "offline"
+  },
+  {
+    "codigo": "001226",
+    "status": "offline"
+  },
+  {
+    "codigo": "001227",
+    "status": "offline"
+  },
+  {
+    "codigo": "001228",
+    "status": "offline"
+  },
+  {
+    "codigo": "001229",
+    "status": "offline"
+  },
+  {
+    "codigo": "001230",
+    "status": "offline"
+  },
+  {
+    "codigo": "001231",
+    "status": "offline"
+  },
+  {
+    "codigo": "001232",
+    "status": "offline"
+  },
+  {
+    "codigo": "001233",
+    "status": "offline"
+  },
+  {
+    "codigo": "001234",
+    "status": "offline"
+  },
+  {
+    "codigo": "001235",
+    "status": "offline"
+  },
+  {
+    "codigo": "001236",
+    "status": "offline"
+  },
+  {
+    "codigo": "001237",
+    "status": "offline"
+  },
+  {
+    "codigo": "001238",
+    "status": "offline"
+  },
+  {
+    "codigo": "001239",
+    "status": "offline"
+  },
+  {
+    "codigo": "001240",
+    "status": "offline"
+  },
+  {
+    "codigo": "001241",
+    "status": "offline"
+  },
+  {
+    "codigo": "001242",
+    "status": "offline"
+  },
+  {
+    "codigo": "001243",
+    "status": "offline"
+  },
+  {
+    "codigo": "001244",
+    "status": "offline"
+  },
+  {
+    "codigo": "001245",
+    "status": "offline"
+  },
+  {
+    "codigo": "001246",
+    "status": "offline"
+  },
+  {
+    "codigo": "001247",
+    "status": "offline"
+  },
+  {
+    "codigo": "001248",
+    "status": "offline"
+  },
+  {
+    "codigo": "001249",
+    "status": "offline"
+  },
+  {
+    "codigo": "001250",
+    "status": "offline"
+  },
+  {
+    "codigo": "001251",
+    "status": "offline"
+  },
+  {
+    "codigo": "001252",
+    "status": "offline"
+  },
+  {
+    "codigo": "001253",
+    "status": "offline"
+  },
+  {
+    "codigo": "001254",
+    "status": "offline"
+  },
+  {
+    "codigo": "001255",
+    "status": "offline"
+  },
+  {
+    "codigo": "001256",
+    "status": "offline"
+  },
+  {
+    "codigo": "001257",
+    "status": "offline"
+  },
+  {
+    "codigo": "001258",
+    "status": "offline"
+  },
+  {
+    "codigo": "001259",
+    "status": "offline"
+  },
+  {
+    "codigo": "001260",
+    "status": "offline"
+  },
+  {
+    "codigo": "001261",
+    "status": "offline"
+  },
+  {
+    "codigo": "001262",
+    "status": "offline"
+  },
+  {
+    "codigo": "001263",
+    "status": "offline"
+  },
+  {
+    "codigo": "001264",
+    "status": "offline"
+  },
+  {
+    "codigo": "001265",
+    "status": "offline"
+  },
+  {
+    "codigo": "001266",
+    "status": "offline"
+  },
+  {
+    "codigo": "001267",
+    "status": "online"
+  },
+  {
+    "codigo": "001268",
+    "status": "online"
+  },
+  {
+    "codigo": "001269",
+    "status": "offline"
+  },
+  {
+    "codigo": "001270",
+    "status": "offline"
+  },
+  {
+    "codigo": "001271",
+    "status": "offline"
+  },
+  {
+    "codigo": "001272",
+    "status": "online"
+  },
+  {
+    "codigo": "001273",
+    "status": "offline"
+  },
+  {
+    "codigo": "001274",
+    "status": "offline"
+  },
+  {
+    "codigo": "001275",
+    "status": "offline"
+  },
+  {
+    "codigo": "001276",
+    "status": "offline"
+  },
+  {
+    "codigo": "001277",
+    "status": "offline"
+  },
+  {
+    "codigo": "001278",
+    "status": "offline"
+  },
+  {
+    "codigo": "001279",
+    "status": "offline"
+  },
+  {
+    "codigo": "001280",
+    "status": "offline"
+  },
+  {
+    "codigo": "001281",
+    "status": "offline"
+  },
+  {
+    "codigo": "001282",
+    "status": "online"
+  },
+  {
+    "codigo": "001283",
+    "status": "offline"
+  },
+  {
+    "codigo": "001284",
+    "status": "offline"
+  },
+  {
+    "codigo": "001285",
+    "status": "offline"
+  },
+  {
+    "codigo": "001286",
+    "status": "offline"
+  },
+  {
+    "codigo": "001287",
+    "status": "offline"
+  },
+  {
+    "codigo": "001288",
+    "status": "offline"
+  },
+  {
+    "codigo": "001289",
+    "status": "offline"
+  },
+  {
+    "codigo": "001290",
+    "status": "offline"
+  },
+  {
+    "codigo": "001291",
+    "status": "offline"
+  },
+  {
+    "codigo": "001292",
+    "status": "offline"
+  },
+  {
+    "codigo": "001293",
+    "status": "offline"
+  },
+  {
+    "codigo": "001294",
+    "status": "offline"
+  },
+  {
+    "codigo": "001295",
+    "status": "offline"
+  },
+  {
+    "codigo": "001296",
+    "status": "offline"
+  },
+  {
+    "codigo": "001297",
+    "status": "offline"
+  },
+  {
+    "codigo": "001298",
+    "status": "offline"
+  },
+  {
+    "codigo": "001299",
+    "status": "offline"
+  },
+  {
+    "codigo": "001300",
+    "status": "offline"
+  },
+  {
+    "codigo": "001301",
+    "status": "offline"
+  },
+  {
+    "codigo": "001302",
+    "status": "online"
+  },
+  {
+    "codigo": "001303",
+    "status": "offline"
+  },
+  {
+    "codigo": "001304",
+    "status": "online"
+  },
+  {
+    "codigo": "001305",
+    "status": "online"
+  },
+  {
+    "codigo": "001306",
+    "status": "online"
+  },
+  {
+    "codigo": "001307",
+    "status": "online"
+  },
+  {
+    "codigo": "001308",
+    "status": "online"
+  },
+  {
+    "codigo": "001309",
+    "status": "online"
+  },
+  {
+    "codigo": "001310",
+    "status": "online"
+  },
+  {
+    "codigo": "001311",
+    "status": "online"
+  },
+  {
+    "codigo": "001312",
+    "status": "online"
+  },
+  {
+    "codigo": "001313",
+    "status": "online"
+  },
+  {
+    "codigo": "001314",
+    "status": "online"
+  },
+  {
+    "codigo": "001315",
+    "status": "online"
+  },
+  {
+    "codigo": "001316",
+    "status": "online"
+  },
+  {
+    "codigo": "001317",
+    "status": "online"
+  },
+  {
+    "codigo": "001318",
+    "status": "offline"
+  },
+  {
+    "codigo": "001319",
+    "status": "offline"
+  },
+  {
+    "codigo": "001320",
+    "status": "offline"
+  },
+  {
+    "codigo": "001321",
+    "status": "offline"
+  },
+  {
+    "codigo": "001322",
+    "status": "offline"
+  },
+  {
+    "codigo": "001323",
+    "status": "offline"
+  },
+  {
+    "codigo": "001324",
+    "status": "offline"
+  },
+  {
+    "codigo": "001325",
+    "status": "offline"
+  },
+  {
+    "codigo": "001326",
+    "status": "offline"
+  },
+  {
+    "codigo": "001327",
+    "status": "offline"
+  },
+  {
+    "codigo": "001328",
+    "status": "offline"
+  },
+  {
+    "codigo": "001329",
+    "status": "offline"
+  },
+  {
+    "codigo": "001330",
+    "status": "offline"
+  },
+  {
+    "codigo": "001331",
+    "status": "offline"
+  },
+  {
+    "codigo": "001332",
+    "status": "offline"
+  },
+  {
+    "codigo": "001333",
+    "status": "offline"
+  },
+  {
+    "codigo": "001334",
+    "status": "online"
+  },
+  {
+    "codigo": "001335",
+    "status": "offline"
+  },
+  {
+    "codigo": "001336",
+    "status": "offline"
+  },
+  {
+    "codigo": "001337",
+    "status": "offline"
+  },
+  {
+    "codigo": "001338",
+    "status": "offline"
+  },
+  {
+    "codigo": "001339",
+    "status": "offline"
+  },
+  {
+    "codigo": "001340",
+    "status": "offline"
+  },
+  {
+    "codigo": "001341",
+    "status": "offline"
+  },
+  {
+    "codigo": "001342",
+    "status": "offline"
+  },
+  {
+    "codigo": "001343",
+    "status": "offline"
+  },
+  {
+    "codigo": "001344",
+    "status": "offline"
+  },
+  {
+    "codigo": "001345",
+    "status": "offline"
+  },
+  {
+    "codigo": "001346",
+    "status": "offline"
+  },
+  {
+    "codigo": "001347",
+    "status": "offline"
+  },
+  {
+    "codigo": "001348",
+    "status": "offline"
+  },
+  {
+    "codigo": "001349",
+    "status": "offline"
+  },
+  {
+    "codigo": "001350",
+    "status": "offline"
+  },
+  {
+    "codigo": "001351",
+    "status": "offline"
+  },
+  {
+    "codigo": "001352",
+    "status": "offline"
+  },
+  {
+    "codigo": "001353",
+    "status": "online"
+  },
+  {
+    "codigo": "001354",
+    "status": "online"
+  },
+  {
+    "codigo": "001355",
+    "status": "online"
+  },
+  {
+    "codigo": "001356",
+    "status": "online"
+  },
+  {
+    "codigo": "001357",
+    "status": "online"
+  },
+  {
+    "codigo": "001358",
+    "status": "offline"
+  },
+  {
+    "codigo": "001359",
+    "status": "offline"
+  },
+  {
+    "codigo": "001360",
+    "status": "online"
+  },
+  {
+    "codigo": "001361",
+    "status": "online"
+  },
+  {
+    "codigo": "001362",
+    "status": "offline"
+  },
+  {
+    "codigo": "001363",
+    "status": "offline"
+  },
+  {
+    "codigo": "001364",
+    "status": "online"
+  },
+  {
+    "codigo": "001365",
+    "status": "online"
+  },
+  {
+    "codigo": "001366",
+    "status": "online"
+  },
+  {
+    "codigo": "001367",
+    "status": "offline"
+  },
+  {
+    "codigo": "001368",
+    "status": "offline"
+  },
+  {
+    "codigo": "001369",
+    "status": "offline"
+  },
+  {
+    "codigo": "001370",
+    "status": "offline"
+  },
+  {
+    "codigo": "001371",
+    "status": "online"
+  },
+  {
+    "codigo": "001372",
+    "status": "online"
+  },
+  {
+    "codigo": "001373",
+    "status": "online"
+  },
+  {
+    "codigo": "001374",
+    "status": "offline"
+  },
+  {
+    "codigo": "001375",
+    "status": "online"
+  },
+  {
+    "codigo": "001376",
+    "status": "offline"
+  },
+  {
+    "codigo": "001377",
+    "status": "offline"
+  },
+  {
+    "codigo": "001378",
+    "status": "offline"
+  },
+  {
+    "codigo": "001379",
+    "status": "offline"
+  },
+  {
+    "codigo": "001380",
+    "status": "offline"
+  },
+  {
+    "codigo": "001381",
+    "status": "online"
+  },
+  {
+    "codigo": "001382",
+    "status": "offline"
+  },
+  {
+    "codigo": "001383",
+    "status": "offline"
+  },
+  {
+    "codigo": "001384",
+    "status": "offline"
+  },
+  {
+    "codigo": "001385",
+    "status": "offline"
+  },
+  {
+    "codigo": "001386",
+    "status": "offline"
+  },
+  {
+    "codigo": "001387",
+    "status": "offline"
+  },
+  {
+    "codigo": "001388",
+    "status": "offline"
+  },
+  {
+    "codigo": "001389",
+    "status": "offline"
+  },
+  {
+    "codigo": "001390",
+    "status": "offline"
+  },
+  {
+    "codigo": "001391",
+    "status": "offline"
+  },
+  {
+    "codigo": "001392",
+    "status": "offline"
+  },
+  {
+    "codigo": "001393",
+    "status": "offline"
+  },
+  {
+    "codigo": "001394",
+    "status": "offline"
+  },
+  {
+    "codigo": "001395",
+    "status": "offline"
+  },
+  {
+    "codigo": "001396",
+    "status": "offline"
+  },
+  {
+    "codigo": "001397",
+    "status": "offline"
+  },
+  {
+    "codigo": "001398",
+    "status": "offline"
+  },
+  {
+    "codigo": "001399",
+    "status": "offline"
+  },
+  {
+    "codigo": "001400",
+    "status": "offline"
+  },
+  {
+    "codigo": "001401",
+    "status": "offline"
+  },
+  {
+    "codigo": "001402",
+    "status": "offline"
+  },
+  {
+    "codigo": "001403",
+    "status": "offline"
+  },
+  {
+    "codigo": "001404",
+    "status": "offline"
+  },
+  {
+    "codigo": "001405",
+    "status": "offline"
+  },
+  {
+    "codigo": "001406",
+    "status": "offline"
+  },
+  {
+    "codigo": "001407",
+    "status": "offline"
+  },
+  {
+    "codigo": "001408",
+    "status": "offline"
+  },
+  {
+    "codigo": "001409",
+    "status": "offline"
+  },
+  {
+    "codigo": "001410",
+    "status": "offline"
+  },
+  {
+    "codigo": "001411",
+    "status": "offline"
+  },
+  {
+    "codigo": "001412",
+    "status": "offline"
+  },
+  {
+    "codigo": "001413",
+    "status": "offline"
+  },
+  {
+    "codigo": "001414",
+    "status": "offline"
+  },
+  {
+    "codigo": "001415",
+    "status": "offline"
+  },
+  {
+    "codigo": "001416",
+    "status": "offline"
+  },
+  {
+    "codigo": "001417",
+    "status": "offline"
+  },
+  {
+    "codigo": "001418",
+    "status": "offline"
+  },
+  {
+    "codigo": "001419",
+    "status": "offline"
+  },
+  {
+    "codigo": "001420",
+    "status": "online"
+  },
+  {
+    "codigo": "001421",
+    "status": "offline"
+  },
+  {
+    "codigo": "001422",
+    "status": "offline"
+  },
+  {
+    "codigo": "001423",
+    "status": "offline"
+  },
+  {
+    "codigo": "001424",
+    "status": "offline"
+  },
+  {
+    "codigo": "001425",
+    "status": "offline"
+  },
+  {
+    "codigo": "001426",
+    "status": "offline"
+  },
+  {
+    "codigo": "001427",
+    "status": "offline"
+  },
+  {
+    "codigo": "001428",
+    "status": "offline"
+  },
+  {
+    "codigo": "001429",
+    "status": "offline"
+  },
+  {
+    "codigo": "001430",
+    "status": "offline"
+  },
+  {
+    "codigo": "001431",
+    "status": "offline"
+  },
+  {
+    "codigo": "001432",
+    "status": "offline"
+  },
+  {
+    "codigo": "001433",
+    "status": "offline"
+  },
+  {
+    "codigo": "001434",
+    "status": "offline"
+  },
+  {
+    "codigo": "001435",
+    "status": "offline"
+  },
+  {
+    "codigo": "001436",
+    "status": "offline"
+  },
+  {
+    "codigo": "001437",
+    "status": "offline"
+  },
+  {
+    "codigo": "001438",
+    "status": "offline"
+  },
+  {
+    "codigo": "001439",
+    "status": "offline"
+  },
+  {
+    "codigo": "001440",
+    "status": "offline"
+  },
+  {
+    "codigo": "001441",
+    "status": "offline"
+  },
+  {
+    "codigo": "001442",
+    "status": "offline"
+  },
+  {
+    "codigo": "001443",
+    "status": "offline"
+  },
+  {
+    "codigo": "001444",
+    "status": "offline"
+  },
+  {
+    "codigo": "001445",
+    "status": "offline"
+  },
+  {
+    "codigo": "001446",
+    "status": "offline"
+  },
+  {
+    "codigo": "001447",
+    "status": "offline"
+  },
+  {
+    "codigo": "001448",
+    "status": "offline"
+  },
+  {
+    "codigo": "001449",
+    "status": "offline"
+  },
+  {
+    "codigo": "001450",
+    "status": "offline"
+  },
+  {
+    "codigo": "001451",
+    "status": "offline"
+  },
+  {
+    "codigo": "001452",
+    "status": "offline"
+  },
+  {
+    "codigo": "001453",
+    "status": "offline"
+  },
+  {
+    "codigo": "001454",
+    "status": "offline"
+  },
+  {
+    "codigo": "001455",
+    "status": "offline"
+  },
+  {
+    "codigo": "001456",
+    "status": "offline"
+  },
+  {
+    "codigo": "001457",
+    "status": "offline"
+  },
+  {
+    "codigo": "001458",
+    "status": "offline"
+  },
+  {
+    "codigo": "001459",
+    "status": "offline"
+  },
+  {
+    "codigo": "001460",
+    "status": "offline"
+  },
+  {
+    "codigo": "001461",
+    "status": "offline"
+  },
+  {
+    "codigo": "001462",
+    "status": "offline"
+  },
+  {
+    "codigo": "001463",
+    "status": "offline"
+  },
+  {
+    "codigo": "001464",
+    "status": "offline"
+  },
+  {
+    "codigo": "001465",
+    "status": "offline"
+  },
+  {
+    "codigo": "001466",
+    "status": "offline"
+  },
+  {
+    "codigo": "001467",
+    "status": "offline"
+  },
+  {
+    "codigo": "001468",
+    "status": "offline"
+  },
+  {
+    "codigo": "001469",
+    "status": "offline"
+  },
+  {
+    "codigo": "001470",
+    "status": "offline"
+  },
+  {
+    "codigo": "001471",
+    "status": "offline"
+  },
+  {
+    "codigo": "001472",
+    "status": "offline"
+  },
+  {
+    "codigo": "001473",
+    "status": "offline"
+  },
+  {
+    "codigo": "001474",
+    "status": "offline"
+  },
+  {
+    "codigo": "001475",
+    "status": "offline"
+  },
+  {
+    "codigo": "001476",
+    "status": "offline"
+  },
+  {
+    "codigo": "001477",
+    "status": "offline"
+  },
+  {
+    "codigo": "001478",
+    "status": "offline"
+  },
+  {
+    "codigo": "001479",
+    "status": "offline"
+  },
+  {
+    "codigo": "001480",
+    "status": "offline"
+  },
+  {
+    "codigo": "001481",
+    "status": "offline"
+  },
+  {
+    "codigo": "001482",
+    "status": "offline"
+  },
+  {
+    "codigo": "001483",
+    "status": "offline"
+  },
+  {
+    "codigo": "001484",
+    "status": "offline"
+  },
+  {
+    "codigo": "001485",
+    "status": "offline"
+  },
+  {
+    "codigo": "001486",
+    "status": "offline"
+  },
+  {
+    "codigo": "001487",
+    "status": "offline"
+  },
+  {
+    "codigo": "001488",
+    "status": "offline"
+  },
+  {
+    "codigo": "001489",
+    "status": "offline"
+  },
+  {
+    "codigo": "001490",
+    "status": "offline"
+  },
+  {
+    "codigo": "001491",
+    "status": "offline"
+  },
+  {
+    "codigo": "001492",
+    "status": "offline"
+  },
+  {
+    "codigo": "001493",
+    "status": "offline"
+  },
+  {
+    "codigo": "001494",
+    "status": "offline"
+  },
+  {
+    "codigo": "001495",
+    "status": "offline"
+  },
+  {
+    "codigo": "001496",
+    "status": "offline"
+  },
+  {
+    "codigo": "001497",
+    "status": "offline"
+  },
+  {
+    "codigo": "001498",
+    "status": "offline"
+  },
+  {
+    "codigo": "001499",
+    "status": "offline"
+  },
+  {
+    "codigo": "001500",
+    "status": "offline"
+  }
+]
