@@ -71,7 +71,7 @@ async function carregarCamerasOnline() {
 cameraSelect.addEventListener('change', atualizarCamera);
 
 // Atualiza o feed da câmera a cada 1 segundo
-setInterval(atualizarCamera, 500);
+setInterval(atualizarCamera, 1000);
 
 // Atualiza status das câmeras a cada 1 minuto
 setInterval(carregarCamerasOnline, 60000);
